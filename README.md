@@ -8,5 +8,6 @@ Adaptors
 *[MasterAdaptor.fa](https://github.com/biol726314/MamiliicoccusResearch/blob/main/TrimmomaticAdapters/MasterAdaptor.fa)
 
 Porechop
+maybe galaxy
 
 Unicycler
