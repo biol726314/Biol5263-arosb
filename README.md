@@ -1,5 +1,6 @@
 Welcome to my markdown for Mammiliicoccus research!!
 
+# Class Methods
 
 [Class Methods](https://github.com/biol726314/MamiliicoccusResearch/blob/main/ClassProcess/ClassProcesses.md)
 
