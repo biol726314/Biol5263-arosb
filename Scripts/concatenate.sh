@@ -2,7 +2,7 @@ cat /scratch/biol726314/research/TrimmedLongReads/pc_bc01/*fastqsanger.gz>/scrat
 
 cat /scratch/biol726314/research/TrimmedLongReads/pc_bc02/*fastqsanger.gz>/scratch/biol726314/research/MergedLongReads/bc02_long.fastq.gz
 
-cat /scratch/biol726314/research/TrimmedLongReads/pc_bc03/*fastqsanger.gz>/scratch/biol726314/research/MergedLongReads/bc03_long.fastq.gz
+cat /scratch/biol726314/research/TrimmedLongReads/pc_bc03/*fasta.gz>/scratch/biol726314/research/MergedLongReads/bc03_long.fastq.gz
 
 cat /scratch/biol726314/research/TrimmedLongReads/pc_bc04/*fastqsanger.gz>/scratch/biol726314/research/MergedLongReads/bc04_long.fastq.gz
 
