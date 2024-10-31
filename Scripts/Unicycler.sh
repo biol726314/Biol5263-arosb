@@ -1,0 +1,1 @@
+unicycler -1 /home/ashleyrosb/TrimmedShort/1_S1_forward_paired.fq.gz -2 /home/ashleyrosb/TrimmedShort/1_S1_reverse_paired.fq.gz -l /home/ashleyrosb/TrimmedLong/MergedLong/mergedbc01.fastq.gz -o /scratch/ashleyrosb/Unicyc_out/uni_bc01
