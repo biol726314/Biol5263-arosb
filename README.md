@@ -32,3 +32,13 @@ Unicycler
 * [Unicycler.sh](https://github.com/biol726314/MamiliicoccusResearch/blob/main/Scripts/Unicycler.sh)
 
 Barcodes that successfully generated assembly.fasta files were kept
+
+
+
+
+
+
+Blast Create
+* [blast_create.sbatch](https://github.com/biol726314/MamiliicoccusResearch/blob/main/Scripts/blast_create.sbatch)
+* [blast_create.sh](https://github.com/biol726314/MamiliicoccusResearch/blob/main/Scripts/blast_create.sh)
+
