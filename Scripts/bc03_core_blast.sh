@@ -1,0 +1,1 @@
+blastn -db /scratch/biol726314/research/ -query /scratch/biol726314/research/bc03/bc03_core_assembly.fasta -outfmt "6 qseqid sseqid slen stitle sstart send length pident nident gapopen gaps qqual" -num_threads 20 -num_alignments 10 > bc03_core_blast.tsv
