@@ -131,11 +131,16 @@ Creating this graphics was time consuming and difficult. Plasmid BLASTs were too
 
 ## Conclusions
 
-
-* reflect on experiences
-* describ key results
+The species identified in successfully assembled samples were *M*. vitulinus, *S*. xylosus, *M*. sp. or *M*. sciuri, *S*. pasteuri, *S*. warneri, and *S*. haemolyticus. Each sample was found to have multiple resistances to different antibiotics and disinfectants. 
 
 
-### Next Steps
+Disinfectant agents and antiseptecs had the greatest number of instances of resistance. Antibiotic resistances, from most to least present, were fluoroquinolone, glycopeptide, tied for third was penam and streptogramin, aminocoumarin, and tied for fifth was aminoglycoside, tetracycline, macrolide, streptograin B, lincosamide, streptogramin A, pleuromutilin, and phosphonic acid.
+
+
+Every sample that had a successful assemble was found to have several antibiotic and disinfectant resistances
+
 
 Following this process, virulence factors, plasmid hits, and resistance genes need to be compiled in a compact, readable table for both for reporting and comprehension purposes. Additionally, the orginal suggestion for this study was to create a complete genome for each sample. Currently, samples exist in a series of contigs, and while analysis is still possible in this format, producing a singular, circular genome would be, for me, impressive. At the very least, samples should eventually have known genes flagged. This will probably be best done with CLC Genomics.
+
+
+Working on this project was an enjoyable experience. When I first began over the summer, I had been struggling to even trim my samples. While I have coded before, my only bioinformatic experience had been through creating R scripts. Python was a new language for me, and any success was only after the result of several days worth of trial and error. With the tools introduced in this course, the assembly process has become simplified. Now, I feel confident I could perform this study again and even try new programs with much success. I look forward to using OSCER in the future and in my research. Thank you so much for allowing me to take this course, it was genuinely my favorite part of the semester. Now that I have finally graduated, I plan on finishing my research and writing my own research paper on the subject. Actually being able to see the experimental process of graduate students helped me to understand the way that research is performed and written. Before, I had no clue where to start when writing such a thing. I remember begging my graduate student during my sophomore research project to help me at least create an outline, whereas now I will be able to complete a majority of the paper without assistance. I additionally have a new point of interest to discuss during medical school interviews, and I hope to use that to my advantage in finding a school that is known for their bioinformatics research. I plan to continue this type of research once I've become a doctor as well, running my own genomic research on the side.
